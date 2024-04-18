@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main{
-  public static void main(String[] args){
+public class Calculadora{
+  public static void calculadora(String[] args){
     Scanner sc = new Scanner(System.in);
     System.out.println("Bem vindo à calculadora simples!");
     System.out.println("Por favor, insira dois números e a operação desejada (+, -, *, /):");
